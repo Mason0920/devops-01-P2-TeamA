@@ -2,5 +2,6 @@
 
 module.exports = async function (fastify, opts) {
   fastify.register(require('./read'))
-  fastify.register(require('./status'))
+  fastify.register(require('./update'))
+
 }
