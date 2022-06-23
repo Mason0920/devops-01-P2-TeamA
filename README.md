@@ -24,8 +24,8 @@
 ## **프론트엔드 배포**
 
 GitHub Action → S3
-![frontend]()
+![frontend](./frontend.png)
 
 ## **백엔드 배포**
 GitHub Action + ECR → ECS
-![backend]()
+![backend](./backend.png)
